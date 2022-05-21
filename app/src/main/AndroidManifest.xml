@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.CarService">
         <activity
+            android:name=".DiagnosticoMto"
+            android:exported="false" />
+        <activity
             android:name=".ModeloAuto"
             android:exported="false" />
         <activity

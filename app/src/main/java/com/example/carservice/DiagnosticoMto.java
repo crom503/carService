@@ -1,11 +1,13 @@
 package com.example.carservice;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.viewpager2.widget.ViewPager2;
+
 import android.os.Bundle;
+
 import com.example.carservice.mto.MyViewPagetAdapter;
 import com.google.android.material.tabs.TabLayout;
 
-public class CategoriaFalla extends AppCompatActivity {
+public class DiagnosticoMto extends AppCompatActivity {
     TabLayout tabLayout;
     ViewPager2 viewPager2;
     MyViewPagetAdapter myViewPagetAdapter;
@@ -13,10 +15,10 @@ public class CategoriaFalla extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_categoria_falla);
+        setContentView(R.layout.activity_diagnostico_mto);
         tabLayout =findViewById(R.id.tab_layout);
         viewPager2 = findViewById(R.id.view_pager);
-        myViewPagetAdapter = new MyViewPagetAdapter(this,"catFalla");
+        myViewPagetAdapter = new MyViewPagetAdapter(this,"diagMto");
         viewPager2.setAdapter(myViewPagetAdapter);
 
         tabLayout.addOnTabSelectedListener(new TabLayout.OnTabSelectedListener() {

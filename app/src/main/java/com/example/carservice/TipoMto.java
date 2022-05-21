@@ -16,7 +16,7 @@ public class TipoMto extends AppCompatActivity {
         setContentView(R.layout.activity_tipo_mto);
         tabLayout =findViewById(R.id.tab_layout);
         viewPager2 = findViewById(R.id.view_pager);
-        myViewPagetAdapter = new MyViewPagetAdapter(this,"usuario");
+        myViewPagetAdapter = new MyViewPagetAdapter(this,"tipoMto");
         viewPager2.setAdapter(myViewPagetAdapter);
 
         tabLayout.addOnTabSelectedListener(new TabLayout.OnTabSelectedListener() {
