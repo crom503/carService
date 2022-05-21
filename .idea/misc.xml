@@ -44,6 +44,15 @@
         <entry key="..\:/Users/hsm2_/OneDrive/Escritorio/Proyecto/carService/app/src/main/res/layout/activity_tipo_auto.xml" value="0.25" />
         <entry key="..\:/Users/hsm2_/OneDrive/Escritorio/Proyecto/carService/app/src/main/res/layout/activity_tipo_mto.xml" value="0.25" />
         <entry key="..\:/Users/hsm2_/OneDrive/Escritorio/Proyecto/carService/app/src/main/res/layout/activity_usuario.xml" value="0.25" />
+        <entry key="..\:/Users/hsm2_/OneDrive/Escritorio/Proyecto/carService/app/src/main/res/layout/fragment_consultar_auto.xml" value="0.25" />
+        <entry key="..\:/Users/hsm2_/OneDrive/Escritorio/Proyecto/carService/app/src/main/res/layout/fragment_consultar_cargo_e.xml" value="0.25" />
+        <entry key="..\:/Users/hsm2_/OneDrive/Escritorio/Proyecto/carService/app/src/main/res/layout/fragment_consultar_cat_falla.xml" value="0.25" />
+        <entry key="..\:/Users/hsm2_/OneDrive/Escritorio/Proyecto/carService/app/src/main/res/layout/fragment_consultar_cliente.xml" value="0.25" />
+        <entry key="..\:/Users/hsm2_/OneDrive/Escritorio/Proyecto/carService/app/src/main/res/layout/fragment_consultar_empleado.xml" value="0.25" />
+        <entry key="..\:/Users/hsm2_/OneDrive/Escritorio/Proyecto/carService/app/src/main/res/layout/fragment_consultar_facturacion.xml" value="0.25" />
+        <entry key="..\:/Users/hsm2_/OneDrive/Escritorio/Proyecto/carService/app/src/main/res/layout/fragment_consultar_marca.xml" value="0.25" />
+        <entry key="..\:/Users/hsm2_/OneDrive/Escritorio/Proyecto/carService/app/src/main/res/layout/fragment_consultar_modelo.xml" value="0.25" />
+        <entry key="..\:/Users/hsm2_/OneDrive/Escritorio/Proyecto/carService/app/src/main/res/layout/fragment_consultar_mto.xml" value="0.25" />
       </map>
     </option>
   </component>
